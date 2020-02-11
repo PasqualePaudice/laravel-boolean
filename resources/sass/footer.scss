@@ -1,0 +1,44 @@
+footer{
+    height: 382px;
+    width:100%;
+    background: #1b3c59;
+    padding:70px 0 30px;
+    position: fixed;
+    bottom:0;
+
+    .container{
+        width: 80%;
+
+        .info{
+
+            img{
+                width: 200px;
+            }
+            .info-i{
+                color:white;
+            }
+        }
+
+
+        .link{
+            ul{
+                li{
+                    list-style-type: none;
+                        text-align: right;
+                    a{
+
+                        color: #fff;
+                        font-size: 20px;
+                    }
+                }
+            }
+
+        }
+    }
+
+}
+
+
+.footer-top{
+    border-bottom:1px solid #fff;
+}

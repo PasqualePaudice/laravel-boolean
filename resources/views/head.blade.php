@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Laravel</title>
+        <script src="./js/app.js" charset="utf-8"></script>
 
         <!-- Fonts -->
 
@@ -19,5 +20,6 @@
 
         @yield('content')
 
+        @include('layouts.footer')
     </body>
 </html>

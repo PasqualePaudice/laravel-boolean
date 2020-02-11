@@ -10937,3 +10937,38 @@ nav #nav-destro div a:hover {
   border-radius: 5px;
 }
 
+footer {
+  height: 382px;
+  width: 100%;
+  background: #1b3c59;
+  padding: 70px 0 30px;
+  position: fixed;
+  bottom: 0;
+}
+
+footer .container {
+  width: 80%;
+}
+
+footer .container .info img {
+  width: 200px;
+}
+
+footer .container .info .info-i {
+  color: white;
+}
+
+footer .container .link ul li {
+  list-style-type: none;
+  text-align: right;
+}
+
+footer .container .link ul li a {
+  color: #fff;
+  font-size: 20px;
+}
+
+.footer-top {
+  border-bottom: 1px solid #fff;
+}
+

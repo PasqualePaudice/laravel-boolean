@@ -1,5 +1,5 @@
 
-@extends('header')
+@extends('head')
 
 @section('content')
     <div class="">
