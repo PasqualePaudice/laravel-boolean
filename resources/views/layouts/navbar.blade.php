@@ -21,7 +21,7 @@
         <a href="#">DOPO IL CORSO</a>
     </div>
     <div class="a">
-        <a href="{{route('corso')}}" class="{{ Route::currentRouteName()==='corso' ? 'activeMenu':''}}">CORSO</a>
+        <a href="#" class="">CORSO</a>
     </div>
     <div class="a">
         <a href="{{route('home')}}" class="{{ Route::currentRouteName()==='home' ? 'activeMenu':''}}">HOME</a>

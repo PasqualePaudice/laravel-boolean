@@ -10941,13 +10941,81 @@ nav #nav-destro div a:hover {
   border-bottom: 2px solid #73D462;
 }
 
+.jumbo {
+  padding: 80px 0;
+  width: 100%;
+}
+
+.jumbo .jumbo-cnt {
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.jumbo .jumbo-cnt .boolean__jumbo__content__left {
+  flex-basis: 50%;
+}
+
+.jumbo .jumbo-cnt .boolean__jumbo__content__left h1 {
+  text-transform: uppercase;
+}
+
+.jumbo .jumbo-cnt .boolean__jumbo__content__left .jumbo-title {
+  font-size: 58.5px;
+  line-height: 1.1;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+.jumbo .jumbo-cnt .boolean__jumbo__content__left p {
+  margin-top: 40px;
+  color: #1b3c59;
+}
+
+.jumbo .jumbo-cnt .boolean__jumbo__content__left .subtitle {
+  font-size: 22px;
+  line-height: 1.2;
+  font-weight: 400;
+}
+
+.no-p-left {
+  padding: 20px;
+}
+
+.paragraph {
+  font-size: 19px;
+  font-weight: 300;
+}
+
+.boolean__jumbo__content__right {
+  flex-basis: 50%;
+  text-align: center;
+}
+
+.boolean__jumbo__content__right img {
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.privacy-cnt {
+  margin: 0 auto;
+}
+
+.privacy-cnt .section {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.privacy-cnt .section h3 {
+  font-size: 20px;
+}
+
 footer {
   height: 382px;
   width: 100%;
   background: #1b3c59;
   padding: 70px 0 30px;
-  position: fixed;
-  bottom: 0;
 }
 
 footer .container {

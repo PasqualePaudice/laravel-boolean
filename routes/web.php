@@ -15,6 +15,6 @@ Route::get('/', function () {
     return view('home');
 })->name('home');
 
-Route::get('/corso', function () {
-    return view('corso');
-})->name('corso');
+Route::get('/privacy-policy', function () {
+    return view('privacy');
+})->name('privacy');
