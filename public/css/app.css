@@ -10937,6 +10937,10 @@ nav #nav-destro div a:hover {
   border-radius: 5px;
 }
 
+.activeMenu {
+  border-bottom: 2px solid #73D462;
+}
+
 footer {
   height: 382px;
   width: 100%;
@@ -10970,5 +10974,27 @@ footer .container .link ul li a {
 
 .footer-top {
   border-bottom: 1px solid #fff;
+}
+
+.fb-top {
+  display: flex;
+  justify-content: center;
+}
+
+.fb-top i {
+  color: white;
+  font-size: 35px;
+  margin: 30px 20px;
+}
+
+.fb-top i:hover {
+  cursor: pointer;
+  color: #61ce4e;
+}
+
+.fb-bottom {
+  color: white;
+  display: flex;
+  justify-content: center;
 }
 

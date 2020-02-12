@@ -26,6 +26,17 @@
 
         </div>
         <div class="footer-bottom">
+            <div class="fb-top">
+
+                <i class="fab fa-instagram"></i>
+                <i class="fab fa-facebook-f"></i>
+                <i class="fab fa-linkedin-in"></i>
+                <i class="fab fa-youtube"></i>
+
+            </div>
+            <div class="fb-bottom">
+                <label>Boolean SRL - Piazzale Giovanni dalle Bande Nere, 9 - 20146, Milano - P.IVA: 10214930967</label>
+            </div>
 
         </div>
     </div>

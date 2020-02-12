@@ -13,4 +13,8 @@
 
 Route::get('/', function () {
     return view('home');
-});
+})->name('home');
+
+Route::get('/corso', function () {
+    return view('corso');
+})->name('corso');

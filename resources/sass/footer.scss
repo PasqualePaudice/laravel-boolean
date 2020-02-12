@@ -42,3 +42,24 @@ footer{
 .footer-top{
     border-bottom:1px solid #fff;
 }
+
+.fb-top{
+    display: flex;
+    justify-content: center;
+    i{
+            color:white;
+            font-size: 35px;
+            margin: 30px 20px;
+
+            &:hover{
+                cursor:pointer;
+                color:#61ce4e;
+            }
+    }
+}
+
+.fb-bottom{
+    color:white;
+    display: flex;
+    justify-content: center;
+}
